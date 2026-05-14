@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://lobstr.io" target="_blank"><img src="./images/banner.png" alt="lobstr.io banner" width="600"></a>
+    <a href="https://lobstr.io" target="_blank"><img src="./images/banner.png" alt="lobstr.io banner" width="100%"></a>
 </p>
 
 <h1 align="center">Get the data you need</h1>
