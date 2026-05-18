@@ -39,29 +39,29 @@ Building a scraper from scratch means handling proxies, captchas, account bans, 
 **By source**
 
 <p>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🚗%20AutoScout24-1A1A1A?style=for-the-badge" alt="AutoScout24"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🏠%20Idealista-FB6E0B?style=for-the-badge" alt="Idealista"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🏠%20Immoweb-ED7203?style=for-the-badge" alt="Immoweb"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🚗%20LaCentrale-ED1C24?style=for-the-badge" alt="LaCentrale"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🛍️%20Leboncoin-F56B2A?style=for-the-badge" alt="Leboncoin"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/📞%20Pages%20Jaunes-353535?style=for-the-badge" alt="Pages Jaunes"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🏠%20PAP-00529F?style=for-the-badge" alt="PAP"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/📰%20ParuVendu-FB8B23?style=for-the-badge" alt="ParuVendu"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🏠%20Realtor-DE2723?style=for-the-badge" alt="Realtor"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🎯%20Sales%20Navigator-1F87E6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sales Navigator"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/🏠%20SeLoger-E60000?style=for-the-badge" alt="SeLoger"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/TripAdvisor-00AA6C?style=for-the-badge&logo=tripadvisor&logoColor=white" alt="TripAdvisor"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Trustpilot-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Trustpilot"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/X%20/%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/👕%20Vinted-09B1BA?style=for-the-badge" alt="Vinted"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Yelp-D32323?style=for-the-badge&logo=yelp&logoColor=white" alt="Yelp"></a>
-  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/AutoScout24-1A1A1A?style=for-the-badge" alt="AutoScout24"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge" alt="Facebook"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge" alt="Google"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Idealista-FB6E0B?style=for-the-badge" alt="Idealista"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Immoweb-ED7203?style=for-the-badge" alt="Immoweb"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/LaCentrale-ED1C24?style=for-the-badge" alt="LaCentrale"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Leboncoin-F56B2A?style=for-the-badge" alt="Leboncoin"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Pages%20Jaunes-353535?style=for-the-badge" alt="Pages Jaunes"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/PAP-00529F?style=for-the-badge" alt="PAP"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/ParuVendu-FB8B23?style=for-the-badge" alt="ParuVendu"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Realtor-DE2723?style=for-the-badge" alt="Realtor"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge" alt="Reddit"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Sales%20Navigator-1F87E6?style=for-the-badge" alt="Sales Navigator"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/SeLoger-E60000?style=for-the-badge" alt="SeLoger"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge" alt="TikTok"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/TripAdvisor-00AA6C?style=for-the-badge" alt="TripAdvisor"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Trustpilot-00B67A?style=for-the-badge" alt="Trustpilot"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/X%20/%20Twitter-000000?style=for-the-badge" alt="X / Twitter"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Vinted-09B1BA?style=for-the-badge" alt="Vinted"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/Yelp-D32323?style=for-the-badge" alt="Yelp"></a>
+  <a href="https://lobstr.io/store"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 </p>
 
 **By use case**
