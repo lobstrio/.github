@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.lobstr.io"><strong>Docs</strong></a> ·
+  <a href="https://docs.lobstr.io?utm_source=github-profile&utm_medium=readme"><strong>Docs</strong></a> ·
   <a href="https://api.lobstr.io/v2/catalog.md"><strong>Catalog</strong></a> ·
   <a href="https://docs.lobstr.io/llms.txt"><strong>llms.txt</strong></a> ·
-  <a href="https://docs.lobstr.io/changelog/v2"><strong>Changelog</strong></a> ·
-  <a href="https://www.lobstr.io/pricing"><strong>Pricing</strong></a> ·
-  <a href="https://www.lobstr.io/about"><strong>About</strong></a>
+  <a href="https://docs.lobstr.io/changelog/v2?utm_source=github-profile&utm_medium=readme"><strong>Changelog</strong></a> ·
+  <a href="https://www.lobstr.io/pricing?utm_source=github-profile&utm_medium=readme"><strong>Pricing</strong></a> ·
+  <a href="https://www.lobstr.io/about?utm_source=github-profile&utm_medium=readme"><strong>About</strong></a>
 </p>
 
 ---
