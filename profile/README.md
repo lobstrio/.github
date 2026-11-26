@@ -1,8 +1,7 @@
-<h1 align="center">Building data infrastructure for the agent economy</h1>
+<h1 align="center">Get the data you need</h1>
 
 <p align="center">
-  The web was built for people who click. Agents now read it too, and most sites still make them guess.<br>
-  lobstr.io answers them in one call, with the same fields every time.
+  Web data API for your code and your AI agents: one call, JSON back in seconds.
 </p>
 
 <p align="center">
