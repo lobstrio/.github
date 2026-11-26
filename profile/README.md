@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://www.lobstr.io"><img src="./images/lobstr.svg" alt="lobstr.io" width="88"></a>
-</p>
-
 <h1 align="center">Building data infrastructure for the agent economy</h1>
 
 <p align="center">
