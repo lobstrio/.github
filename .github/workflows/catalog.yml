@@ -1,0 +1,26 @@
+name: catalog
+
+# The list of operations in profile/README.md, rewritten every day from the live catalog
+# (scripts/catalog_table.py), so the profile shows each new operation without anyone touching it.
+on:
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: python scripts/catalog_table.py
+      - name: commit when it changed
+        run: |
+          git diff --quiet && { echo "no change"; exit 0; }
+          git -c user.name="lobstr.io" -c user.email="contact@lobstr.io" commit -qam "Profile: the operations, from the catalog"
+          git push -q origin HEAD:main
