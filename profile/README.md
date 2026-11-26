@@ -47,7 +47,6 @@ The same server works in ChatGPT, Cursor and any MCP client: it finds the operat
 
 - [google-business-categories](https://github.com/lobstrio/google-business-categories): every Google Business category, 4,053 of them, kept up to date.
 - [deproto](https://github.com/lobstrio/deproto): decode Google Maps protobuf responses in Python.
-- [shadow-useragent](https://github.com/lobstrio/shadow-useragent): real, current user agents for Python.
 
 ---
 
