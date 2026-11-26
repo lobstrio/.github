@@ -25,7 +25,7 @@ curl https://api.lobstr.io/v2/run \
     "source": "google_maps",
     "operation": "places/get",
     "options": {
-      "place": "Le Bouchon des Filles, Lyon"
+      "place": "Gramercy Tavern, New York"
     },
     "fields": [
       "name",
@@ -47,31 +47,31 @@ curl https://api.lobstr.io/v2/run \
   "cost": {
     "credits": 1
   },
-  "duration_ms": 1702,
+  "duration_ms": 1521,
   "results": [
     {
       "object": "place",
-      "id": "ChIJc_459AHr9EcRd0ALc7vrjcI",
-      "name": "Le Bouchon des Filles",
+      "id": "ChIJvSQIgqFZwokRFYQbJdzceSs",
+      "name": "Gramercy Tavern",
       "categories": [
-        "French restaurant"
+        "New American restaurant"
       ],
       "address": {
-        "street": "20 Rue Sergent Blandan",
-        "city": "Lyon"
+        "street": "42 E 20th St",
+        "city": "New York"
       },
-      "phone": "+33478304044",
-      "website_url": "https://www.lebouchondesfilles.fr/",
+      "phone": "+12124770777",
+      "website_url": "https://www.gramercytavern.com/",
       "rating": {
         "value": 4.6,
         "scale": 5,
-        "count": 2242,
+        "count": 5091,
         "distribution": {
-          "1": 46,
-          "2": 27,
-          "3": 98,
-          "4": 400,
-          "5": 1671
+          "1": 102,
+          "2": 100,
+          "3": 215,
+          "4": 711,
+          "5": 3963
         }
       }
     }
@@ -92,7 +92,7 @@ from lobstrio import Lobstr
 
 client = Lobstr()  # reads LOBSTR_API_KEY
 
-run = client.google_maps.places.search(query="bakeries in Lyon")
+run = client.google_maps.places.search(query="bakeries in Austin, TX")
 for place in run.results:
     print(place["name"], place["phone"])
 ```
@@ -106,7 +106,7 @@ import { Lobstr } from 'lobstrio';
 
 const client = new Lobstr(); // reads LOBSTR_API_KEY
 
-for await (const review of client.iterate('google_maps/reviews/list', { place: 'ChIJc_459AHr9EcRd0ALc7vrjcI' }, { maxRecords: 100 })) {
+for await (const review of client.iterate('google_maps/reviews/list', { place: 'ChIJCar0f49ZwokR6ozLV-dHNTE' }, { maxRecords: 100 })) {
   console.log(review.rating.value, review.text);
 }
 ```
