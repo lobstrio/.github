@@ -168,6 +168,8 @@ sales_navigator/leads/search
 seloger/listings/get
 seloger/listings/search
 
+tripadvisor/reviews/list
+
 websites/contacts/get
 
 x/bookmarks/list
@@ -179,6 +181,8 @@ x/timeline/list
 x/tweets/get
 x/tweets/list
 x/tweets/search
+
+yelp/reviews/list
 ```
 <!-- catalog:end -->
 
