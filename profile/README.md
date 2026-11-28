@@ -130,6 +130,8 @@ airbnb/homes/get
 airbnb/homes/search
 airbnb/reviews/list
 
+booking/hotels/get
+booking/hotels/search
 booking/reviews/list
 
 facebook_marketplace/conversations/list
